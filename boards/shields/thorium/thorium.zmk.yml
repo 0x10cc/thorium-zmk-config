@@ -6,7 +6,9 @@ url: https://github.com/note96e/thorium
 requires: [seeeduino_xiao_ble]
 features:
   - keys
+  - studio
 siblings:
-  - thorium
+  - thorium_dongle
   - thorium_left
   - thorium_right
+  
